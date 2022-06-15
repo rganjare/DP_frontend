@@ -1,4 +1,4 @@
 @Library('DP_shared-library@main') _
 
-env.COMPONENT="frontend"
+env.COMPONENT="DP_frontend"
 nodeJS()
